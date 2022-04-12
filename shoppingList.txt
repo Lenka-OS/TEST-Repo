@@ -4,3 +4,4 @@ Milk
 Bread
 Eggs
 Tea
+Cereal
